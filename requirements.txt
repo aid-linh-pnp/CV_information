@@ -1,0 +1,4 @@
+requests
+fitz
+datetime
+tempfile
