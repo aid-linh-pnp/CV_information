@@ -126,7 +126,7 @@ Required Output Format (just json):
     }}...
   ]
 }}
-    """)
+    """, height=400)
 
     # Nút Generate
     if st.button("Generate"):
