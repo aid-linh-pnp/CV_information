@@ -1,4 +1,3 @@
 requests
 fitz
 datetime
-tempfile
