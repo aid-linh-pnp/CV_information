@@ -90,7 +90,7 @@ def call_openai_api(pdf_text, prompt):
 
 # Streamlit app
 def main():
-    st.title('CV Extractor and Age Calculator')
+    st.title('CV Extractor')
 
     # Hiển thị ô nhập file PDF
     uploaded_file = st.file_uploader("Upload CV PDF", type=["pdf"])
